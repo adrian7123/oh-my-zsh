@@ -21,8 +21,12 @@ chsh -s $(which zsh)
 
 
 ### COLORS
+  backgroundColor = '#191622';
+  foregroundColor = '#E1E1E6';  
+  borderColor = '#483C67';
+  cursorColor = '#f8f8f2';
 
-black: '#000000',
+  black: '#000000',
   red: '#ff5555',
   green: '#50fa7b',
   yellow: '#effa78',
@@ -30,6 +34,9 @@ black: '#000000',
   magenta: '#ff79c6',
   cyan: '#8d79ba',
   white: 'bfbfbf',
+
+
+
   lightBlack: '#4d4d4d',
   lightRed: '#ff6e67',
   lightGreen: '#5af78e',
