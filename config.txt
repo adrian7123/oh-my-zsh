@@ -18,3 +18,23 @@ https://github.com/spaceship-prompt/spaceship-prompt
 Código Spaceship: https://pastebin.com/P03T4sUL
 
 chsh -s $(which zsh)
+
+
+### COLORS
+
+black: '#000000',
+  red: '#ff5555',
+  green: '#50fa7b',
+  yellow: '#effa78',
+  blue: '#bd93f9',
+  magenta: '#ff79c6',
+  cyan: '#8d79ba',
+  white: 'bfbfbf',
+  lightBlack: '#4d4d4d',
+  lightRed: '#ff6e67',
+  lightGreen: '#5af78e',
+  lightYellow: '#eaf08d',
+  lightBlue: '#caa9fa',
+  lightMagenta: '#ff92d0',
+  lightCyan: '#aa91e3',
+  lightWhite: '#e6e6e6'
