@@ -11,7 +11,7 @@ ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/the
 
 https://github.com/ohmyzsh/ohmyzsh
 
-https://github.com/zdharma/zinit
+https://github.com/zdharma-continuum/zinit
 
 https://github.com/spaceship-prompt/spaceship-prompt
 
