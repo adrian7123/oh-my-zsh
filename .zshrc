@@ -122,7 +122,7 @@ zinit light-mode for \
     zdharma-continuum/zinit-annex-bin-gem-node \
     zsh-users/zsh-autosuggestions \
     zsh-users/zsh-completions \
-    zdharma-continuum /fast-syntax-highlighting
+    zdharma-continuum/fast-syntax-highlighting
 
 ### End of Zinit's installer chunk
 
