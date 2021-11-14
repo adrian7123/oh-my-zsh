@@ -20,6 +20,31 @@ Código Spaceship: https://pastebin.com/P03T4sUL
 chsh -s $(which zsh)
 
 
+### WINDOWS TERMINAL COLORS
+{
+            "background": "#191622",
+            "foreground": "#E1E1E6",
+            "selectionBackground": "#483C67",
+            "cursorColor": "#F8F8F2",
+            "black": "#000000",
+            "blue": "#BD93F9",
+            "green": "#50FA7B",
+            "name": "Campbell",
+            "red": "#FF5555",
+            "purple": "#ff79c6",
+            "cyan": "#8d79ba",
+            "white": "#bfbfbf",
+            "yellow": "#EFFA78",
+            "brightBlack": "#4d4d4d",
+            "brightRed": "#ff6e67",
+            "brightGreen": "#5af78e",
+            "brightYellow": "#eaf08d",
+            "brightBlue": "#caa9fa",
+            "brightPurple": "#ff92d0",
+            "brightCyan": "#aa91e3",
+            "brightWhite": "#e6e6e6"
+        },
+
 ### COLORS
   backgroundColor = '#191622';
   foregroundColor = '#E1E1E6';  
