@@ -17,6 +17,8 @@ https://github.com/spaceship-prompt/spaceship-prompt
 
 Código Spaceship: https://pastebin.com/P03T4sUL
 
+sudo dnf install util-linux-user
+
 chsh -s $(which zsh)
 
 
