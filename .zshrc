@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/bueno/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -122,7 +122,9 @@ zinit light-mode for \
     zdharma-continuum/zinit-annex-bin-gem-node \
     zsh-users/zsh-autosuggestions \
     zsh-users/zsh-completions \
-    zdharma-continuum/fast-syntax-highlighting
+    zdharma-continuum/fast-syntax-highlighting \
+
+
 
 ### End of Zinit's installer chunk
 
