@@ -1,0 +1,73 @@
+sudo apt install zsh curl git -y
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+sh -c "$(curl -fsSL https://git.io/zinit-install)"
+
+git clone https://github.com/spaceship-prompt/spaceship-prompt.git "$ZSH_CUSTOM/themes/spaceship-prompt" --depth=1
+
+ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
+
+https://github.com/ohmyzsh/ohmyzsh
+
+https://github.com/zdharma-continuum/zinit
+
+https://github.com/spaceship-prompt/spaceship-prompt
+
+Código Spaceship: https://pastebin.com/P03T4sUL
+
+sudo dnf install util-linux-user
+
+chsh -s $(which zsh)
+
+
+### WINDOWS TERMINAL COLORS
+{
+            "background": "#191622",
+            "foreground": "#E1E1E6",
+            "selectionBackground": "#483C67",
+            "cursorColor": "#F8F8F2",
+            "black": "#000000",
+            "blue": "#BD93F9",
+            "green": "#50FA7B",
+            "name": "Campbell",
+            "red": "#FF5555",
+            "purple": "#ff79c6",
+            "cyan": "#8d79ba",
+            "white": "#bfbfbf",
+            "yellow": "#EFFA78",
+            "brightBlack": "#4d4d4d",
+            "brightRed": "#ff6e67",
+            "brightGreen": "#5af78e",
+            "brightYellow": "#eaf08d",
+            "brightBlue": "#caa9fa",
+            "brightPurple": "#ff92d0",
+            "brightCyan": "#aa91e3",
+            "brightWhite": "#e6e6e6"
+        },
+
+### COLORS
+  backgroundColor = '#191622';
+  foregroundColor = '#E1E1E6';  
+  borderColor = '#483C67';
+  cursorColor = '#f8f8f2';
+
+  black: '#000000',
+  red: '#ff5555',
+  green: '#50fa7b',
+  yellow: '#effa78',
+  blue: '#bd93f9',
+  magenta: '#ff79c6',
+  cyan: '#8d79ba',
+  white: 'bfbfbf',
+
+
+
+  lightBlack: '#4d4d4d',
+  lightRed: '#ff6e67',
+  lightGreen: '#5af78e',
+  lightYellow: '#eaf08d',
+  lightBlue: '#caa9fa',
+  lightMagenta: '#ff92d0',
+  lightCyan: '#aa91e3',
+  lightWhite: '#e6e6e6'
